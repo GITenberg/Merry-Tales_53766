@@ -1,0 +1,31 @@
+_repo: Merry-Tales_53766
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Skinner, Eleanor L. (Eleanor Louise)
+    alias: Skinner, Eleanor Louise
+    birthdate: 1872
+    gutenberg_agent_id: '37116'
+    url: http://www.gutenberg.org/2009/agents/37116
+  - agent_name: Skinner, Ada M. (Ada Maria)
+    alias: Skinner, Ada Maria
+    birthdate: 1878
+    gutenberg_agent_id: '1679'
+    url: http://www.gutenberg.org/2009/agents/1679
+description: ''
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers (Primary)'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+title: Merry Tales
+url: http://www.gutenberg.org/ebooks/53766
